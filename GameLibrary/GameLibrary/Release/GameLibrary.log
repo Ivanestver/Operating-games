@@ -1,0 +1,19 @@
+﻿  pch.cpp
+  dllmain.cpp
+  Game.cpp
+D:\VSProjects\GameLibrary\GameLibrary\Game.cpp(19,99): warning C4273: GetWholePotentional: несовместимое связывание dll
+D:\VSProjects\GameLibrary\GameLibrary\Game.h(8,31): message : см. предыдущее определение "GetWholePotentional"
+D:\VSProjects\GameLibrary\GameLibrary\Game.cpp(36,62): warning C4273: GetDestroyedMeans: несовместимое связывание dll
+D:\VSProjects\GameLibrary\GameLibrary\Game.h(9,23): message : см. предыдущее определение "GetDestroyedMeans"
+D:\VSProjects\GameLibrary\GameLibrary\Game.cpp(52,27): warning C4273: GetDestroyedMeans: несовместимое связывание dll
+D:\VSProjects\GameLibrary\GameLibrary\Game.h(10,23): message : см. предыдущее определение "GetDestroyedMeans"
+D:\VSProjects\GameLibrary\GameLibrary\Game.cpp(62,43): warning C4273: GetBestResult: несовместимое связывание dll
+D:\VSProjects\GameLibrary\GameLibrary\Game.h(11,23): message : см. предыдущее определение "GetBestResult"
+D:\VSProjects\GameLibrary\GameLibrary\Game.cpp(75,63): warning C4273: GetDistribution: несовместимое связывание dll
+D:\VSProjects\GameLibrary\GameLibrary\Game.h(12,23): message : см. предыдущее определение "GetDistribution"
+     Создается библиотека D:\VSProjects\GameLibrary\Release\GameLibrary.lib и объект D:\VSProjects\GameLibrary\Release\GameLibrary.exp
+  Создание кода
+  Previous IPDB not found, fall back to full compilation.
+  All 6 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Создание кода завершено
+  GameLibrary.vcxproj -> D:\VSProjects\GameLibrary\Release\GameLibrary.dll
